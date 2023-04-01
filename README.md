@@ -1,2 +1,58 @@
 # Portifolio-fatec
 Trabalho de Graduação 
+
+# Ana Christina Ferreira Dias da Silva
+
+## Introdução
+
+Faça uma breve introdução sobre você. Fale de sua formação e carreira. Caso aplicável, fale de publicações ou apresentações em eventos da área de computação. Inclua uma foto!
+
+## Contatos
+* [GIT](https://www.github.com/AnaChristina)
+* [LinkedIn](https://www.linkedin.com)
+
+## Meus Principais Conhecimentos
+Java, SQL, HTML, CSS, Metodologia Ágil, Javascript.
+Apresente seus principais conhecimentos. Foque nos conhecimentos que possui maior domínio e que deseja desenvolver durante sua carreira.
+
+
+## Meus Projetos
+
+### 2° semestre de 2020
+#### 1° semestre - EGY CONTEUDO DIDÁTICOS
+Desenvolvimento de uma plataforma de vendas de conteúdos didáticos, no formato webisite para todos os tipos de estudantes, com o intuito de ser de facil acesso e vizualização, de maneira que o usuário possa adquirir um conteúdo, sendo ele com textos, videos ou jogos, e ele será disponibilizado na plataforma progressivamente, para download e utilização do usuário.
+
+
+Fale sobre o projeto desenvolvido. Apresente a empresa parceira, o problema e a solução entregue pela equipe (mínimo de um parágrafo por item). Recomenda-se o uso de figuras (ou até mesmo vídeos) para ilustrar os principais projetos.
+
+[GIT](https://www.git.com)
+
+#### Tecnologias Utilizadas
+Apresente brevemente as tecnologias utilizadas. Uma tecnologia por linha. Indique qual a importância de cada tecnologia para o projeto.
+
+#### Contribuições Pessoais
+Apresente suas contribuições no projeto. Foque nas funcionalidades em que você mais atuou. Descreva sua atuação em detalhes, especificando que tecnologias você utilizou.
+
+#### Hard Skills
+Apresente as hard skills que você utilizou/desenvolveu durante o projeto e o nível de proficiência alcançado. Exemplo: CSS - Sei fazer com autonomia
+
+#### Soft Skills
+Apresente as soft skills que você utilizou/desenvolveu durante o projeto e em quais situações elas foram fundamentais. Exemplo: Comunicação - Precisei exercitar minhas habilidades de comunicação para viabilizar as reuniões semanais levando em conta as disponibilidades dos membros, que não cursavam as mesmas disciplinas.
+
+### Em 2022-1
+Mesmo formato
+
+### Em 2022-2
+Mesmo formato
+
+### Em 2023-1
+Mesmo formato
+
+### Em 2023-2
+Mesmo formato
+
+
+
+
+
+
