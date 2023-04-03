@@ -46,13 +46,13 @@ Apresente as soft skills que você utilizou/desenvolveu durante o projeto e em q
 ### 1° semestre de 2022 TECSUS 
 ### 2° semestre de 2022 2RP
 #### 4° semestre
-EMPRESA PARCEIRA: 2RP 
+EMPRESA PARCEIRA: 2RP  <br>
 2RP é uma empresa de tecnologia focada em soluções e serviços em TI que disponibiliza soluções para análise de informações em tempo real, de modo a permitir a tomada de decisões de negócios que precisam atender requisitos de tempo extremamente rigorosos.
 
 PROBLEMA: A empresa desejava um sistema que ajudasse a controla a jornada de trabalho de seus colaboradores, como a hora extra e sobreavisos. Sendo possível aprovar ou não sobreavisos e horas extras.
 
 SOLUÇÃO: Foi desenvolvido uma aplicação web, para controle de hora extra e sobreavisos dos colaboradores da empresa. Na aplicação, os colaboradores podem cadastrar uma hora extra, essa hora extra é enviada para o administrador que pode aceitar ou não a hora extra do colaborador. O mesmo é feito para caso de sobreaviso, o colaborador cadastra o sobreaviso e o administrador aceita o sobreaviso ou não.
-
+<br>
 IMAGENS/VIDEOS SOBRE O PROJETO;
 
 [GIT](https://github.com/2rp-net-API/Documentacao)
@@ -71,7 +71,7 @@ Para o desenvolvimento do projeto as tecnologias utilizadas foram:
 - TypeScript: Linguagem usada no back-end da aplicação.  
 
 #### Contribuições Pessoais
-Atuei como Scrum Master e por algumas sprints fiz papel de Product Owner. Participei como desenvolvedora front-end criando designer com a ferramente Figma e desenvolvendo os templates da aplicação web com Framework React JS e uso do Framework Bootstrap. 
+Atuei como Scrum Master e em algumas sprints atuei com papel de Product Owner. Participei como desenvolvedora front-end criando designers com a ferramente Figma e desenvolvendo os templates e telas da aplicação web com o React JS,Framework Bootstrap, HTML e CSS.
 
 #### Hard Skills
 - Estilização com bootstrap: Sei fazer com autonomia.
@@ -81,30 +81,13 @@ Atuei como Scrum Master e por algumas sprints fiz papel de Product Owner. Partic
 - React JS: sei fazer com ajuda.
 
 #### Soft Skills
-- Liderança: Tive que saber liderar um time onde havia muitos problemas entre os integrantes.
+- Liderança: Tive que adotar um papel de lider porque havia muitos problemas entre os integrantes do time.
 - Comunicação: Precisei aprimorar muito a minha comunicação para poder pegar e passar informações de forma precisa para todo o time e gerar mais interação entre o time.
 - Organização: Precisei exercitar a minha organização para bom planejamento das sprints e entregas do projeto.
-- Proatividade: Como um time pequeno, meu nível de proatividade cresceu muito para realização das entregas das sprint. 
+- Proatividade: Como um time pequeno, meu nível de proatividade cresceu muito para realização das entregas das sprint.
 
 ### 1° semestre de 2023 IACIT
 ### 2° semestre de 2023 -----
-
-
-
-
-
-
-### Em 2022-1
-Mesmo formato
-
-### Em 2022-2
-Mesmo formato
-
-### Em 2023-1
-Mesmo formato
-
-### Em 2023-2
-Mesmo formato
 
 
 
