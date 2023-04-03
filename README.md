@@ -9,7 +9,7 @@ Faça uma breve introdução sobre você. Fale de sua formação e carreira. Cas
 
 ## Contatos
 * [GIT](https://www.github.com/AnaChristina)
-* [LinkedIn](https://www.linkedin.com)
+* [LinkedIn](https://www.linkedin.com/in/ana-christina-silva/)
 
 ## Meus Principais Conhecimentos
 Java, SQL, HTML, CSS, Metodologia Ágil, Javascript.
@@ -56,7 +56,7 @@ SOLUÇÃO: Foi desenvolvido uma aplicação web, para controle de hora extra e s
 
 Fale sobre o projeto desenvolvido. Apresente a empresa parceira, o problema e a solução entregue pela equipe (mínimo de um parágrafo por item). Recomenda-se o uso de figuras (ou até mesmo vídeos) para ilustrar os principais projetos.
 
-[GIT](https://www.git.com)
+[GIT](https://github.com/2rp-net-API/Documentacao)
 
 #### Tecnologias Utilizadas
 Apresente brevemente as tecnologias utilizadas. Uma tecnologia por linha. Indique qual a importância de cada tecnologia para o projeto.
