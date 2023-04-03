@@ -38,18 +38,21 @@ Apresente as hard skills que você utilizou/desenvolveu durante o projeto e o n�
 
 #### Soft Skills
 Apresente as soft skills que você utilizou/desenvolveu durante o projeto e em quais situações elas foram fundamentais. Exemplo: Comunicação - Precisei exercitar minhas habilidades de comunicação para viabilizar as reuniões semanais levando em conta as disponibilidades dos membros, que não cursavam as mesmas disciplinas.
+#
+#
+#
 
 ### 2° semestre de 2021 GSW
 ### 1° semestre de 2022 TECSUS 
 ### 2° semestre de 2022 2RP
 
-PROJETO:
+FALAR SOBRE O PROJETO DESENVOLVIDO;
 EMPRESA: 
 2RP é uma empresa de tecnologia focada em soluções e serviços em TI que disponibiliza soluções para análise de informações em tempo real, de modo a permitir a tomada de decisões de negócios que precisam atender requisitos de tempo extremamente rigorosos. A empresa tem uma estrutura em composable business, possibilita a aquisição de ampla experiência em diversos setores, como energia, varejo, tecnologia, entre outras. Sua atuação no setor bancário se destaca: no Brasil, por exemplo, a 2RP Net é homologada pelas três principais bandeiras de cartão de crédito do país.
 
-A 2RP Net 
-PROBLEMA:
-SOLUÇÃO:
+PROBLEMA: A empresa desejava um sistema que ajudava a controla a jornada de trabalho de seus colaboradores, como a hora extra e sobreavisos. Sendo possível aprovar ou não sobreavisos e horas extras. 
+
+SOLUÇÃO: Foi desenvolvido uma aplicação web, para controle de hora extra e sobreavisos dos colaboradores da empresa. EXPLICA MAIS
 
 Fale sobre o projeto desenvolvido. Apresente a empresa parceira, o problema e a solução entregue pela equipe (mínimo de um parágrafo por item). Recomenda-se o uso de figuras (ou até mesmo vídeos) para ilustrar os principais projetos.
 
