@@ -41,9 +41,47 @@ Apresente as soft skills que você utilizou/desenvolveu durante o projeto e em q
 #
 #
 #
+#
 
 ### 2° semestre de 2021 GSW
-### 1° semestre de 2022 TECSUS 
+#
+#
+#
+#
+
+### 1° semestre de 2022 TECSUS
+EMPRESA PARCEIRA: TECSUS <br>
+A Tecsus é uma startup que desenvolve dispositivos, aplicativos e sistemas para a transmissão e recepção de dados, controle de equipamentos remotos e gestão de faturas. Aplicados nos setores de abastecimento de água, distribuição de eletricidade e gás natural. <br>
+PROBLEMA: <br>
+SOLUÇÃO: <br>
+IMAGENS/VIDEOS DO PROJETO.
+
+[GIT](https://github.com/UniversalDevs/Projeto_API_TecSus)
+
+#### Tecnologias Utilizadas
+- HTML5: Utilizado para a connstrução das paginas do aplicativo.
+- CSS3: Usado para estlização 
+- Javascript: --
+- Java: -- 
+- PostgreSQL: --
+- Spring: --
+- Bootstrap: Framework utilizado para estilização e responsividade da aplicação.
+
+#### Contribuições Pessoais
+Contribui como desenvolvedora front-end, aplicando conhecimento de UI/UX, criando wireframes com a ferramenta Figma e desenvolvendo as telas da aplicação com Bootstrap, HTML e CSS.
+
+
+#### Hard Skills
+Apresente as hard skills que você utilizou/desenvolveu durante o projeto e o nível de proficiência alcançado. Exemplo: CSS - Sei fazer com autonomia
+
+#### Soft Skills
+Apresente as soft skills que você utilizou/desenvolveu durante o projeto e em quais situações elas foram fundamentais. Exemplo: Comunicação - Precisei exercitar minhas habilidades de comunicação para viabilizar as reuniões semanais levando em conta as disponibilidades dos membros, que não cursavam as mesmas disciplinas.
+#
+#
+#
+#
+
+
 ### 2° semestre de 2022 2RP
 #### 4° semestre
 EMPRESA PARCEIRA: 2RP  <br>
