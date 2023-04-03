@@ -12,7 +12,7 @@ Faça uma breve introdução sobre você. Fale de sua formação e carreira. Cas
 * [LinkedIn](https://www.linkedin.com/in/ana-christina-silva/)
 
 ## Meus Principais Conhecimentos
-Java, SQL, HTML, CSS, Metodologia Ágil, Javascript.
+Java, SQL, HTML, CSS, Metodologia Ágil, Javascript, TypeScript
 Apresente seus principais conhecimentos. Foque nos conhecimentos que possui maior domínio e que deseja desenvolver durante sua carreira.
 
 
