@@ -45,34 +45,46 @@ Apresente as soft skills que você utilizou/desenvolveu durante o projeto e em q
 ### 2° semestre de 2021 GSW
 ### 1° semestre de 2022 TECSUS 
 ### 2° semestre de 2022 2RP
-
-FALAR SOBRE O PROJETO DESENVOLVIDO;
+#### 4° semestre
 EMPRESA PARCEIRA: 2RP 
 2RP é uma empresa de tecnologia focada em soluções e serviços em TI que disponibiliza soluções para análise de informações em tempo real, de modo a permitir a tomada de decisões de negócios que precisam atender requisitos de tempo extremamente rigorosos.
 
 PROBLEMA: A empresa desejava um sistema que ajudasse a controla a jornada de trabalho de seus colaboradores, como a hora extra e sobreavisos. Sendo possível aprovar ou não sobreavisos e horas extras.
 
 SOLUÇÃO: Foi desenvolvido uma aplicação web, para controle de hora extra e sobreavisos dos colaboradores da empresa. Na aplicação, os colaboradores podem cadastrar uma hora extra, essa hora extra é enviada para o administrador que pode aceitar ou não a hora extra do colaborador. O mesmo é feito para caso de sobreaviso, o colaborador cadastra o sobreaviso e o administrador aceita o sobreaviso ou não.
-Para o desenvolvimento do projeto as tecnologias utilizadas foram: 
-React JS,Node Js, Javascript, HTML, CSS e framework Bootstrap para o front-end. 
-PostgreSQL, TypeORM, TypeScript para o back-end. 
 
-
-Fale sobre o projeto desenvolvido. Apresente a empresa parceira, o problema e a solução entregue pela equipe (mínimo de um parágrafo por item). Recomenda-se o uso de figuras (ou até mesmo vídeos) para ilustrar os principais projetos.
+IMAGENS/VIDEOS SOBRE O PROJETO;
 
 [GIT](https://github.com/2rp-net-API/Documentacao)
 
 #### Tecnologias Utilizadas
-Apresente brevemente as tecnologias utilizadas. Uma tecnologia por linha. Indique qual a importância de cada tecnologia para o projeto.
+Para o desenvolvimento do projeto as tecnologias utilizadas foram:
+- React JS: Framework usado para criar interfaces de usuário no aplicativo web.
+- Node Js: Executar projeto.
+- Javascript: linguagem utilizada para desenvolvimento do front-end. 
+- HTML: Construção das paginas do aplicativo.
+- CSS:  Utilizado para estilização das telas.
+- Figma: Utilizado para criação do protótipo das telas. 
+- Framework Bootstrap: Estilizar páginas com facilidade e responsividade.
+- PostgreSQL: Gerênciador de tybanco de dados.
+- TypeORM: Biblioteca que auxilia no banco de dados.
+- TypeScript: Linguagem usada no back-end da aplicação.  
 
 #### Contribuições Pessoais
-Apresente suas contribuições no projeto. Foque nas funcionalidades em que você mais atuou. Descreva sua atuação em detalhes, especificando que tecnologias você utilizou.
+Atuei como Scrum Master e por algumas sprints fiz papel de Product Owner. Participei como desenvolvedora front-end criando designer com a ferramente Figma e desenvolvendo os templates da aplicação web com Framework React JS e uso do Framework Bootstrap. 
 
 #### Hard Skills
-Apresente as hard skills que você utilizou/desenvolveu durante o projeto e o nível de proficiência alcançado. Exemplo: CSS - Sei fazer com autonomia
+- Estilização com bootstrap: Sei fazer com autonomia.
+- Criação de estilos com CSS: sei fazer com autonomia.
+- UI/UX: Sei fazer com autonomia.
+- Javascript: sei fazer com ajuda.
+- React JS: sei fazer com ajuda.
 
 #### Soft Skills
-Apresente as soft skills que você utilizou/desenvolveu durante o projeto e em quais situações elas foram fundamentais. Exemplo: Comunicação - Precisei exercitar minhas habilidades de comunicação para viabilizar as reuniões semanais levando em conta as disponibilidades dos membros, que não cursavam as mesmas disciplinas.
+- Liderança: Tive que saber liderar um time onde havia muitos problemas entre os integrantes.
+- Comunicação: Precisei aprimorar muito a minha comunicação para poder pegar e passar informações de forma precisa para todo o time e gerar mais interação entre o time.
+- Organização: Precisei exercitar a minha organização para bom planejamento das sprints e entregas do projeto.
+- Proatividade: Como um time pequeno, meu nível de proatividade cresceu muito para realização das entregas das sprint. 
 
 ### 1° semestre de 2023 IACIT
 ### 2° semestre de 2023 -----
