@@ -47,12 +47,16 @@ Apresente as soft skills que você utilizou/desenvolveu durante o projeto e em q
 ### 2° semestre de 2022 2RP
 
 FALAR SOBRE O PROJETO DESENVOLVIDO;
-EMPRESA: 
-2RP é uma empresa de tecnologia focada em soluções e serviços em TI que disponibiliza soluções para análise de informações em tempo real, de modo a permitir a tomada de decisões de negócios que precisam atender requisitos de tempo extremamente rigorosos. A empresa tem uma estrutura em composable business, possibilita a aquisição de ampla experiência em diversos setores, como energia, varejo, tecnologia, entre outras. Sua atuação no setor bancário se destaca: no Brasil, por exemplo, a 2RP Net é homologada pelas três principais bandeiras de cartão de crédito do país.
+EMPRESA PARCEIRA: 2RP 
+2RP é uma empresa de tecnologia focada em soluções e serviços em TI que disponibiliza soluções para análise de informações em tempo real, de modo a permitir a tomada de decisões de negócios que precisam atender requisitos de tempo extremamente rigorosos.
 
-PROBLEMA: A empresa desejava um sistema que ajudava a controla a jornada de trabalho de seus colaboradores, como a hora extra e sobreavisos. Sendo possível aprovar ou não sobreavisos e horas extras. 
+PROBLEMA: A empresa desejava um sistema que ajudasse a controla a jornada de trabalho de seus colaboradores, como a hora extra e sobreavisos. Sendo possível aprovar ou não sobreavisos e horas extras.
 
-SOLUÇÃO: Foi desenvolvido uma aplicação web, para controle de hora extra e sobreavisos dos colaboradores da empresa. EXPLICA MAIS
+SOLUÇÃO: Foi desenvolvido uma aplicação web, para controle de hora extra e sobreavisos dos colaboradores da empresa. Na aplicação, os colaboradores podem cadastrar uma hora extra, essa hora extra é enviada para o administrador que pode aceitar ou não a hora extra do colaborador. O mesmo é feito para caso de sobreaviso, o colaborador cadastra o sobreaviso e o administrador aceita o sobreaviso ou não.
+Para o desenvolvimento do projeto as tecnologias utilizadas foram: 
+React JS,Node Js, Javascript, HTML, CSS e framework Bootstrap para o front-end. 
+PostgreSQL, TypeORM, TypeScript para o back-end. 
+
 
 Fale sobre o projeto desenvolvido. Apresente a empresa parceira, o problema e a solução entregue pela equipe (mínimo de um parágrafo por item). Recomenda-se o uso de figuras (ou até mesmo vídeos) para ilustrar os principais projetos.
 
