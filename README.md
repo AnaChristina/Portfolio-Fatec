@@ -50,6 +50,7 @@ Apresente as soft skills que você utilizou/desenvolveu durante o projeto e em q
 #
 
 ### 1° semestre de 2022 TECSUS
+#### 3° semestre
 EMPRESA PARCEIRA: TECSUS <br>
 A Tecsus é uma startup que desenvolve dispositivos, aplicativos e sistemas para a transmissão e recepção de dados, controle de equipamentos remotos e gestão de faturas. Aplicados nos setores de abastecimento de água, distribuição de eletricidade e gás natural. <br>
 PROBLEMA: <br>
@@ -72,15 +73,19 @@ Contribui como desenvolvedora front-end, aplicando conhecimento de UI/UX, criand
 
 
 #### Hard Skills
-Apresente as hard skills que você utilizou/desenvolveu durante o projeto e o nível de proficiência alcançado. Exemplo: CSS - Sei fazer com autonomia
+- Utilização framework bootstrap: sei fazer com autonomia.
+- CSS: sei fazer com autonomia.
+- Javascript: sei fazer com ajuda.
+- UI/UX: sei fazer com autonomia.
 
 #### Soft Skills
-Apresente as soft skills que você utilizou/desenvolveu durante o projeto e em quais situações elas foram fundamentais. Exemplo: Comunicação - Precisei exercitar minhas habilidades de comunicação para viabilizar as reuniões semanais levando em conta as disponibilidades dos membros, que não cursavam as mesmas disciplinas.
-#
-#
-#
-#
+- Trabalho em Equipe: Saber trabalhar em equipe para entregar um sistema que cumpra os requisitos do cliente, criando um time responsável com cliente e respeito com os integrantes do time.
+- Comunicação: Aprimorei minhas habilidades de comunicação para um bom entendimento do que deveria ser feito em conjunto com o time. 
 
+#
+#
+#
+#
 
 ### 2° semestre de 2022 2RP
 #### 4° semestre
@@ -125,6 +130,8 @@ Atuei como Scrum Master e em algumas sprints atuei com papel de Product Owner. P
 - Proatividade: Como um time pequeno, meu nível de proatividade cresceu muito para realização das entregas das sprint.
 
 ### 1° semestre de 2023 IACIT
+
+
 ### 2° semestre de 2023 -----
 
 
