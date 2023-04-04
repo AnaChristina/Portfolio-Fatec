@@ -19,29 +19,39 @@ Apresente seus principais conhecimentos. Foque nos conhecimentos que possui maio
 ## Meus Projetos
 
 ### 2° semestre de 2020
-#### 1° semestre - EGY CONTEUDO DIDÁTICOS
-Desenvolvimento de uma plataforma de vendas de conteúdos didáticos, no formato webisite para todos os tipos de estudantes, com o intuito de ser de facil acesso e vizualização, de maneira que o usuário possa adquirir um conteúdo, sendo ele com textos, videos ou jogos, e ele será disponibilizado na plataforma progressivamente, para download e utilização do usuário.
+#### 1° semestre - EGY CONTEUDO DIDÁTICOS <br>
+EMPRESA PARCEIRA: FATEC SÃO JOSÉ DOS CAMPOS <br>
+A Fatec é uma Faculdade Pública Estadual e todos os cursos oferecidos são gratuitos. 
 
+Desenvolvimento de uma plataforma de vendas de conteúdos didáticos, no formato webisite para todos os tipos de estudantes, com o intuito de ser de facil acesso e vizualização, de maneira que o usuário possa adquirir um conteúdo, sendo ele com textos, videos ou jogos, sendo disponibilizado na plataforma progressivamente, para download e utilização do usuário. 
 
-Fale sobre o projeto desenvolvido. Apresente a empresa parceira, o problema e a solução entregue pela equipe (mínimo de um parágrafo por item). Recomenda-se o uso de figuras (ou até mesmo vídeos) para ilustrar os principais projetos.
+Problema: O desafio era criar um site para vendas de conteúdos didáticos para diversas áreas de fácil acesso e que se destacasse de outros sites de vendas de conteúdos didáticos e que aumentasse o lucro da empresa. <br>
 
-[GIT](https://www.git.com)
+Solução: Criamos então o site Egy Conteúdo Didáticos, onde o usuario pode comprar o conteúdo em formato de video, jogos ou arquivos de texto. O site conta com login administrador para administrar conteúdos, fazer levantamento de vendas gerando relatórios. 
+Para o usuário comum, ele tem que se cadastrar e realizar login para efetuar compras no site, filtrar buscas, adicionar items ao carrinho e listas de desejos, realizar comentários sobre um conteúdo adiquirido e ver todos os produtos que adiquiriu no site. Escolhendo o produto o usuário pode escolher a forma que deseja efetuar o pagamento com: cartão de crédito, cartão de débito, boleto ou pay pal. 
+
+[GIT](https://github.com/AnaChristina/EGY-Conteudos-Didaticos)
 
 #### Tecnologias Utilizadas
-Apresente brevemente as tecnologias utilizadas. Uma tecnologia por linha. Indique qual a importância de cada tecnologia para o projeto.
+- 
+- 
+- 
+
 
 #### Contribuições Pessoais
 Apresente suas contribuições no projeto. Foque nas funcionalidades em que você mais atuou. Descreva sua atuação em detalhes, especificando que tecnologias você utilizou.
 
 #### Hard Skills
-Apresente as hard skills que você utilizou/desenvolveu durante o projeto e o nível de proficiência alcançado. Exemplo: CSS - Sei fazer com autonomia
+-
+-
+-
+
+
 
 #### Soft Skills
-Apresente as soft skills que você utilizou/desenvolveu durante o projeto e em quais situações elas foram fundamentais. Exemplo: Comunicação - Precisei exercitar minhas habilidades de comunicação para viabilizar as reuniões semanais levando em conta as disponibilidades dos membros, que não cursavam as mesmas disciplinas.
-#
-#
-#
-#
+- Comunicação: Para buscar e passar informações entre o time e o cliente na reuniões diárias.
+- Trabalho em equipe: Divisão de tarefas e ajuda.
+- Proatividade: Para realizar entregas na data certa e evitar atrasos na sprint.
 
 ### 2° semestre de 2021 GSW <br>
 EMPRESA PARCEIRA: GSW
@@ -69,7 +79,7 @@ Fale sobre o projeto desenvolvido. Apresente a empresa parceira, o problema e a 
 Apresente brevemente as tecnologias utilizadas. Uma tecnologia por linha. Indique qual a importância de cada tecnologia para o projeto.
 
 #### Contribuições Pessoais
-Apresente suas contribuições no projeto. Foque nas funcionalidades em que você mais atuou. Descreva sua atuação em detalhes, especificando que tecnologias você utilizou.
+Contribui com o front-end, usando figma para protótipo, Html e css para criação e estilização das telas. 
 
 #### Hard Skills
 - Javascript: Sei fazer com ajuda.
@@ -164,12 +174,11 @@ Atuei como Scrum Master e em algumas sprints atuei com papel de Product Owner. P
 
 #### Soft Skills
 - Liderança: Tive que adotar um papel de lider porque havia muitos problemas entre os integrantes do time.
-- Comunicação: Precisei aprimorar muito a minha comunicação para poder pegar e passar informações de forma precisa para todo o time e gerar mais interação entre o time.
+- Comunicação: Precisei aprimorar muito a minha comunicação para poder pegar e passar informações de forma precisa para todo o time e gerar mais interação entre os integrantes.
 - Organização: Precisei exercitar a minha organização para bom planejamento das sprints e entregas do projeto.
 - Proatividade: Como um time pequeno, meu nível de proatividade cresceu muito para realização das entregas das sprint.
 
 ### 1° semestre de 2023 IACIT
-
 
 ### 2° semestre de 2023 -----
 
