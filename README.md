@@ -50,7 +50,9 @@ A GSW é uma empresa que fornece produtos de software para gestão empresarial q
 PROJETO: 
 PROBLEMA: A empresa nos desafiou a criar uma aplicação que ajudasse a gerenciar projetos de seus clientes mostrando em gráficos de uma análise sobre os projetos que estão com status finalizado ou em andamento.
 
-SOLUÇÂO: EXPLICAR DETALHADAMENTE ESSE PROJETO, SE PRECISO LER MANUAL DE USUARIO!
+SOLUÇÂO: <br>
+
+EXPLICAR DETALHADAMENTE ESSE PROJETO, SE PRECISO LER MANUAL DE USUARIO!
 
 Fale sobre o projeto desenvolvido. Apresente a empresa parceira, o problema e a solução entregue pela equipe (mínimo de um parágrafo por item). Recomenda-se o uso de figuras (ou até mesmo vídeos) para ilustrar os principais projetos.
 
