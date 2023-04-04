@@ -43,7 +43,44 @@ Apresente as soft skills que você utilizou/desenvolveu durante o projeto e em q
 #
 #
 
-### 2° semestre de 2021 GSW
+### 2° semestre de 2021 GSW <br>
+EMPRESA PARCEIRA: GSW
+A GSW é uma empresa que fornece produtos de software para gestão empresarial que auxiliam os clientes a ter um melhor controle de suas atividades, reduzindo custos e aumentando a produtividade nos processos do dia a dia. s principais unidades operacionais são: fábrica de software, desenvolvimento de sistemas, transformação digital, SAP ERP, ERP Microsoft Dynamics 365, Gestão Tributária, BPO Fiscal e Contábil, Sistemas de Comércio Exterior e CRM. Desenvolveu produtos específicos, principalmente com bots para automação de processos tributários e fiscais e atendimento virtual ao cliente para empresas como Panasonic, Microsoft, Ericsson, 3M e Johnson & Johnson.
+
+PROJETO: 
+PROBLEMA: A empresa nos desafiou a criar uma aplicação que ajudasse a gerenciar projetos de seus clientes mostrando em gráficos de uma análise sobre os projetos que estão com status finalizado ou em andamento.
+
+SOLUÇÂO: EXPLICAR DETALHADAMENTE ESSE PROJETO, SE PRECISO LER MANUAL DE USUARIO!
+
+Fale sobre o projeto desenvolvido. Apresente a empresa parceira, o problema e a solução entregue pela equipe (mínimo de um parágrafo por item). Recomenda-se o uso de figuras (ou até mesmo vídeos) para ilustrar os principais projetos.
+
+[GIT](https://github.com/cpusfatec/DashBoard)
+
+#### Tecnologias Utilizadas
+- HTML5: Para criação das telas.
+- CSS3: Usado para estilizar as paginas do projeto.
+- FIGMA: Usado para criar protótipo das telas.
+- Javascript: ---
+- PHP: Usado para conexão com o banco de dados e manipulação dos dados.
+- Sql: Usado para criação banco de dados.
+- MySql: Gerenciador de Banco de dados.
+Apresente brevemente as tecnologias utilizadas. Uma tecnologia por linha. Indique qual a importância de cada tecnologia para o projeto.
+
+#### Contribuições Pessoais
+Apresente suas contribuições no projeto. Foque nas funcionalidades em que você mais atuou. Descreva sua atuação em detalhes, especificando que tecnologias você utilizou.
+
+#### Hard Skills
+- Javascript: Sei fazer com ajuda.
+- HTML: Sei fazer com autonomia.
+- CSS: Sei fazer com autonomia.
+- Sql: Sei fazer com ajuda.
+
+#### Soft Skills
+- Comunicação: Reuniões semanais com o time para esclarecimento de dúvidas e tarefas e andamento do projeto.
+- Proatividade: 
+- Trabalho em Equipe:
+- Organização:
+
 #
 #
 #
