@@ -150,7 +150,7 @@ Para o desenvolvimento do projeto as tecnologias utilizadas foram:
 - Framework Bootstrap: Estilizar páginas com facilidade e responsividade.
 - PostgreSQL: Gerênciador de tybanco de dados.
 - TypeORM: Biblioteca que auxilia no banco de dados.
-- TypeScript: Linguagem usada no back-end da aplicação.  
+- TypeScript: Linguagem usada no back-end da aplicação e front-end.  
 
 #### Contribuições Pessoais
 Atuei como Scrum Master e em algumas sprints atuei com papel de Product Owner. Participei como desenvolvedora front-end criando designers com a ferramente Figma e desenvolvendo os templates e telas da aplicação web com o React JS,Framework Bootstrap, HTML e CSS.
