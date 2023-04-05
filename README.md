@@ -28,7 +28,7 @@ Desenvolvimento de uma plataforma de vendas de conteúdos didáticos, no formato
 Problema: O desafio era criar um site para vendas de conteúdos didáticos para diversas áreas de fácil acesso e que se destacasse de outros sites de vendas de conteúdos didáticos e que aumentasse o lucro da empresa. <br>
 
 Solução: Criamos então o site Egy Conteúdo Didáticos, onde o usuario pode comprar o conteúdo em formato de video, jogos ou arquivos de texto. O site conta com login administrador para administrar conteúdos, fazer levantamento de vendas gerando relatórios. 
-Para o usuário comum, ele tem que se cadastrar e realizar login para efetuar compras no site, filtrar buscas, adicionar items ao carrinho e listas de desejos, realizar comentários sobre um conteúdo adiquirido e ver todos os produtos que adiquiriu no site. Escolhendo o produto o usuário pode escolher a forma que deseja efetuar o pagamento com: cartão de crédito, cartão de débito, boleto ou pay pal. 
+Para o usuário comum, ele tem que se cadastrar e realizar login para efetuar compras no site, filtrar buscas, adicionar items ao carrinho e listas de desejos, realizar comentários sobre um conteúdo adiquirido e ver todos os produtos que adiquiriu no site. Escolhendo o produto o usuário pode escolher a forma que deseja efetuar o pagamento com: cartão de crédito, cartão de débito, boleto ou Pay Pal. 
 
 [GIT](https://github.com/AnaChristina/EGY-Conteudos-Didaticos)
 
