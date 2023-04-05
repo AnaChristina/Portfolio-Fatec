@@ -102,15 +102,16 @@ Contribui com o front-end, usando figma para protótipo, Html e css para criaç�
 #### 3° semestre
 EMPRESA PARCEIRA: TECSUS <br>
 A Tecsus é uma startup que desenvolve dispositivos, aplicativos e sistemas para a transmissão e recepção de dados, controle de equipamentos remotos e gestão de faturas. Aplicados nos setores de abastecimento de água, distribuição de eletricidade e gás natural. <br>
-PROBLEMA: <br>
-SOLUÇÃO: <br>
+PROBLEMA: Com uma grande demanda de processamento de contas de energia, água e gás a empresa TecSus queria um sistema para otimizar o tempo gasto nos processamentos das contas de água, luz e gás. Presando que a interface de digitação (cadastro) das contas, deve possuir um UX que facilite a operação de visualização da conta em PDF para digitação dos campos da conta, com uso de atalhos no teclado e navegação via teclas. <br>
+
+SOLUÇÃO: A solução foi criar uma aplicação web que otimiza o processameto do cadastro das contas de água, luz e gás. Para agilizar o cadastro o digitador importava um PDF da conta de luz, água ou gás que pode ser aberto ao lado da pagina de cadastro de contas para obter com rapidez os dados necessários para cadastro da conta. Os campos de preenchimento para cadastro de contas seguem o padrão das contas físicas facilitando o preenchimento dos dados. A aplicação também exibe alertas na tela para confirmar dados e evitar erros. Sistema tem usuário administrador e gestor para criação de relatório de gastos <br>
 IMAGENS/VIDEOS DO PROJETO.
 
 [GIT](https://github.com/UniversalDevs/Projeto_API_TecSus)
 
 #### Tecnologias Utilizadas
 - HTML5: Utilizado para a connstrução das paginas do aplicativo.
-- CSS3: Usado para estlização 
+- CSS3: Usado para estlização.
 - Javascript: --
 - Java: -- 
 - PostgreSQL: --
@@ -122,7 +123,7 @@ Contribui como desenvolvedora front-end, aplicando conhecimento de UI/UX, criand
 
 
 #### Hard Skills
-- Utilização framework bootstrap: sei fazer com autonomia.
+- Framework Bootstrap: sei fazer com autonomia.
 - CSS: sei fazer com autonomia.
 - Javascript: sei fazer com ajuda.
 - UI/UX: sei fazer com autonomia.
