@@ -55,9 +55,7 @@ Apresente suas contribuições no projeto. Foque nas funcionalidades em que voc�
 
 ### 2° semestre de 2021 GSW <br>
 EMPRESA PARCEIRA: GSW
-A GSW é uma empresa que fornece produtos de software para gestão empresarial que auxiliam os clientes a ter um melhor controle de suas atividades, reduzindo custos e aumentando a produtividade nos processos do dia a dia. As principais unidades operacionais são: fábrica de software, desenvolvimento de sistemas, transformação digital, SAP ERP, ERP Microsoft Dynamics 365, Gestão Tributária, BPO Fiscal e Contábil, Sistemas de Comércio Exterior e CRM. Desenvolveu produtos específicos, principalmente com bots para automação de processos tributários e fiscais e atendimento virtual ao cliente para empresas como Panasonic, Microsoft, Ericsson, 3M e Johnson & Johnson.
-
-PROJETO: <br>
+A GSW é uma empresa que fornece produtos de software para gestão empresarial que auxiliam os clientes a ter um melhor controle de suas atividades, reduzindo custos e aumentando a produtividade nos processos do dia a dia. As principais unidades operacionais são: fábrica de software, desenvolvimento de sistemas, transformação digital, SAP ERP, ERP Microsoft Dynamics 365, Gestão Tributária, BPO Fiscal e Contábil, Sistemas de Comércio Exterior e CRM. Desenvolveu produtos específicos, principalmente com bots para automação de processos tributários e fiscais e atendimento virtual ao cliente para empresas como Panasonic, Microsoft, Ericsson, 3M e Johnson & Johnson.<br>
 
 PROBLEMA: A empresa nos desafiou a criar uma aplicação que ajudasse a gerenciar projetos de seus clientes mostrando uma análise, com diferentes tipos de gráficos, sobre os projetos que estão com status finalizado ou em andamento. <br>
 
@@ -91,11 +89,6 @@ Contribui com o front-end, usando figma para protótipo, Html e css para criaç�
 - Proatividade: 
 - Trabalho em Equipe:
 - Organização:
-
-#
-#
-#
-#
 
 ### 1° semestre de 2022 TECSUS
 #### 3° semestre
@@ -132,11 +125,6 @@ Contribui como desenvolvedora front-end, aplicando conhecimento de UI/UX, criand
 - Comunicação: Aprimorei minhas habilidades de comunicação para tomadas de decisões, um bom entendimento do que deveria ser feito em conjunto com o time.
 - Proatividade: Buscar por conhecimentos UX/UI, para aplicar no projeto e entregar um designer compreensivel e de fácil usuabilidade para o cliente. 
 - Trabalho em Equipe: Precisei aprender a dar a minha opinião sobre o projeto sem gerar conflitos com o time. 
-
-#
-#
-#
-#
 
 ### 2° semestre de 2022 2RP
 #### 4° semestre
@@ -181,9 +169,10 @@ Atuei como Scrum Master e em algumas sprints atuei com papel de Product Owner. P
 - Proatividade: Como um time pequeno, meu nível de proatividade cresceu muito para realização das entregas das sprint.
 
 ### 1° semestre de 2023 IACIT
+#### 5° semestre
 
 ### 2° semestre de 2023 -----
-
+#### 6° semestre
 
 
 
