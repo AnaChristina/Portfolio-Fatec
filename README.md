@@ -104,7 +104,7 @@ EMPRESA PARCEIRA: TECSUS <br>
 A Tecsus é uma startup que desenvolve dispositivos, aplicativos e sistemas para a transmissão e recepção de dados, controle de equipamentos remotos e gestão de faturas. Aplicados nos setores de abastecimento de água, distribuição de eletricidade e gás natural. <br>
 PROBLEMA: Com uma grande demanda de processamento de contas de energia, água e gás a empresa TecSus queria um sistema para otimizar o tempo gasto nos processamentos das contas de água, luz e gás. Presando que a interface de digitação (cadastro) das contas, deve possuir um UX que facilite a operação de visualização da conta em PDF para digitação dos campos da conta, com uso de atalhos no teclado e navegação via teclas. <br>
 
-SOLUÇÃO: A solução foi criar uma aplicação web que otimiza o processameto do cadastro das contas de água, luz e gás. Para agilizar o cadastro o digitador importava um PDF da conta de luz, água ou gás que pode ser aberto ao lado da pagina de cadastro de contas para obter com rapidez os dados necessários para cadastro da conta. Os campos de preenchimento para cadastro de contas seguem o padrão das contas físicas facilitando o preenchimento dos dados. A aplicação também exibe alertas na tela para confirmar dados e evitar erros. Sistema tem usuário administrador e gestor para criação de relatório de gastos <br>
+SOLUÇÃO: A solução foi criar uma aplicação web que otimiza o processameto do cadastro das contas de água, luz e gás. Para cadastro o digitador precisava cadastrar o cliente, concessionárias como por exemplo a SABESP, e a instalação/unidade. Para agilizar o cadastro o digitador importava um PDF da conta de luz, água ou gás que pode ser aberto ao lado da pagina de cadastro de contas para obter com rapidez os dados necessários para cadastro da conta. Os campos de preenchimento para cadastro de contas seguem o padrão das contas físicas facilitando o preenchimento dos dados. A aplicação também exibe alertas na tela para confirmar dados e evitar erros. Sistema tem usuário administrador e gestor para criação de relatório de gastos <br>
 IMAGENS/VIDEOS DO PROJETO.
 
 [GIT](https://github.com/UniversalDevs/Projeto_API_TecSus)
@@ -130,7 +130,9 @@ Contribui como desenvolvedora front-end, aplicando conhecimento de UI/UX, criand
 
 #### Soft Skills
 - Trabalho em Equipe: Saber trabalhar em equipe para entregar um sistema que cumpra os requisitos do cliente, criando um time responsável com cliente e respeito com os integrantes do time.
-- Comunicação: Aprimorei minhas habilidades de comunicação para um bom entendimento do que deveria ser feito em conjunto com o time. 
+- Comunicação: Aprimorei minhas habilidades de comunicação para tomadas de decisões, um bom entendimento do que deveria ser feito em conjunto com o time.
+- Proatividade: Buscar por conhecimentos UX/UI, para aplicar no projeto e entregar um designer compreensivel e de fácil usuabilidade para o cliente. 
+- Trabalho em Equipe: Precisei aprender a dar a minha opinião sobre o projeto sem gerar conflitos com o time. 
 
 #
 #
