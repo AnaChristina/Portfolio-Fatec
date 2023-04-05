@@ -55,16 +55,15 @@ Apresente suas contribuições no projeto. Foque nas funcionalidades em que voc�
 
 ### 2° semestre de 2021 GSW <br>
 EMPRESA PARCEIRA: GSW
-A GSW é uma empresa que fornece produtos de software para gestão empresarial que auxiliam os clientes a ter um melhor controle de suas atividades, reduzindo custos e aumentando a produtividade nos processos do dia a dia. s principais unidades operacionais são: fábrica de software, desenvolvimento de sistemas, transformação digital, SAP ERP, ERP Microsoft Dynamics 365, Gestão Tributária, BPO Fiscal e Contábil, Sistemas de Comércio Exterior e CRM. Desenvolveu produtos específicos, principalmente com bots para automação de processos tributários e fiscais e atendimento virtual ao cliente para empresas como Panasonic, Microsoft, Ericsson, 3M e Johnson & Johnson.
+A GSW é uma empresa que fornece produtos de software para gestão empresarial que auxiliam os clientes a ter um melhor controle de suas atividades, reduzindo custos e aumentando a produtividade nos processos do dia a dia. As principais unidades operacionais são: fábrica de software, desenvolvimento de sistemas, transformação digital, SAP ERP, ERP Microsoft Dynamics 365, Gestão Tributária, BPO Fiscal e Contábil, Sistemas de Comércio Exterior e CRM. Desenvolveu produtos específicos, principalmente com bots para automação de processos tributários e fiscais e atendimento virtual ao cliente para empresas como Panasonic, Microsoft, Ericsson, 3M e Johnson & Johnson.
 
-PROJETO: 
-PROBLEMA: A empresa nos desafiou a criar uma aplicação que ajudasse a gerenciar projetos de seus clientes mostrando em gráficos de uma análise sobre os projetos que estão com status finalizado ou em andamento.
+PROJETO: <br>
 
-SOLUÇÂO: <br>
+PROBLEMA: A empresa nos desafiou a criar uma aplicação que ajudasse a gerenciar projetos de seus clientes mostrando uma análise, com diferentes tipos de gráficos, sobre os projetos que estão com status finalizado ou em andamento. <br>
 
-EXPLICAR DETALHADAMENTE ESSE PROJETO, SE PRECISO LER MANUAL DE USUARIO!
+SOLUÇÂO: Desenvolvemos uma aplicação web, que contém as empresas clientes que estavam cadastradas no banco de dados da GSW, que a mesma disponibilizou para a equipe, onde se é possível verificar quantos projetos estão em processo de desenvolvimento e quais estão finalizados, sendo possível ver esta análise com diferentes gráficos. Também sendo possível ver gráficos de projetos por colaboradores e seus status, e gráficos por empresas e seus projetos. O sistema tem um serviço de busca de projetos, com filtragem de: status, empresa e colaborador. Clicando no projeto desejado pode-se ver detalhes como data de inicio, termino, tempo de duração, descrição e status. <br>
 
-Fale sobre o projeto desenvolvido. Apresente a empresa parceira, o problema e a solução entregue pela equipe (mínimo de um parágrafo por item). Recomenda-se o uso de figuras (ou até mesmo vídeos) para ilustrar os principais projetos.
+IMAGENS/VIDEOS SOBRE O PROJETO. 
 
 [GIT](https://github.com/cpusfatec/DashBoard)
 
