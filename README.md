@@ -54,7 +54,7 @@ Apresente suas contribuições no projeto. Foque nas funcionalidades em que voc�
 - Proatividade: Para realizar entregas na data certa e evitar atrasos na sprint.
 
 ### 2° semestre de 2021 GSW <br>
-EMPRESA PARCEIRA: GSW
+EMPRESA PARCEIRA: GSW <br>
 A GSW é uma empresa que fornece produtos de software para gestão empresarial que auxiliam os clientes a ter um melhor controle de suas atividades, reduzindo custos e aumentando a produtividade nos processos do dia a dia. As principais unidades operacionais são: fábrica de software, desenvolvimento de sistemas, transformação digital, SAP ERP, ERP Microsoft Dynamics 365, Gestão Tributária, BPO Fiscal e Contábil, Sistemas de Comércio Exterior e CRM. Desenvolveu produtos específicos, principalmente com bots para automação de processos tributários e fiscais e atendimento virtual ao cliente para empresas como Panasonic, Microsoft, Ericsson, 3M e Johnson & Johnson.<br>
 
 PROBLEMA: A empresa nos desafiou a criar uma aplicação que ajudasse a gerenciar projetos de seus clientes mostrando uma análise, com diferentes tipos de gráficos, sobre os projetos que estão com status finalizado ou em andamento. <br>
