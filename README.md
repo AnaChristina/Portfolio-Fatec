@@ -141,7 +141,7 @@ Contribui como desenvolvedora front-end, aplicando conhecimento de UI/UX, criand
 EMPRESA PARCEIRA: 2RP  <br>
 2RP é uma empresa de tecnologia focada em soluções e serviços em TI que disponibiliza soluções para análise de informações em tempo real, de modo a permitir a tomada de decisões de negócios que precisam atender requisitos de tempo extremamente rigorosos.
 
-PROBLEMA: A empresa desejava um sistema que ajudasse a controla a jornada de trabalho de seus colaboradores, como a hora extra e sobreavisos. Sendo possível aprovar ou não sobreavisos e horas extras.
+PROBLEMA: A empresa desejava um sistema que ajudasse a controlar a jornada de trabalho de seus colaboradores, como a hora extra e sobreavisos. Sendo possível aprovar ou não sobreavisos e horas extras.
 
 SOLUÇÃO: Foi desenvolvido uma aplicação web, para controle de hora extra e sobreavisos dos colaboradores da empresa. Na aplicação, os colaboradores podem cadastrar uma hora extra, essa hora extra é enviada para o administrador que pode aceitar ou não a hora extra do colaborador. O mesmo é feito para caso de sobreaviso, o colaborador cadastra o sobreaviso e o administrador aceita o sobreaviso ou não.
 <br>
@@ -158,7 +158,7 @@ Para o desenvolvimento do projeto as tecnologias utilizadas foram:
 - CSS:  Utilizado para estilização das telas.
 - Figma: Utilizado para criação do protótipo das telas. 
 - Framework Bootstrap: Estilizar páginas com facilidade e responsividade.
-- PostgreSQL: Gerênciador de tybanco de dados.
+- PostgreSQL: Gerênciador de banco de dados.
 - TypeORM: Biblioteca que auxilia no banco de dados.
 - TypeScript: Linguagem usada no back-end da aplicação e front-end.  
 
