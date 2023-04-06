@@ -46,8 +46,6 @@ Apresente suas contribuições no projeto. Foque nas funcionalidades em que voc�
 -
 -
 
-
-
 #### Soft Skills
 - Comunicação: Para buscar e passar informações entre o time e o cliente na reuniões diárias.
 - Trabalho em equipe: Divisão de tarefas e ajuda.
@@ -59,7 +57,7 @@ A GSW é uma empresa que fornece produtos de software para gestão empresarial q
 
 PROBLEMA: A empresa nos desafiou a criar uma aplicação que ajudasse a gerenciar projetos de seus clientes mostrando uma análise, com diferentes tipos de gráficos, sobre os projetos que estão com status finalizado ou em andamento. <br>
 
-SOLUÇÂO: Desenvolvemos uma aplicação web, que contém as empresas clientes que estavam cadastradas no banco de dados da GSW, que a mesma disponibilizou para a equipe, onde se é possível verificar quantos projetos estão em processo de desenvolvimento e quais estão finalizados, sendo possível ver esta análise com diferentes gráficos. Também sendo possível ver gráficos de projetos por colaboradores e seus status, e gráficos por empresas e seus projetos. O sistema tem um serviço de busca de projetos, com filtragem de: status, empresa e colaborador. Clicando no projeto desejado pode-se ver detalhes como data de inicio, termino, tempo de duração, descrição e status. <br>
+SOLUÇÂO: Desenvolvemos uma aplicação web, que contém as empresas clientes que estavam cadastradas no banco de dados da GSW, que a mesma disponibilizou para a equipe, onde se é possível verificar quantos projetos estão em processo de desenvolvimento e quais estão finalizados, sendo possível ver esta análise com diferentes gráficos. Também sendo possível ver gráficos de projetos por colaboradores e seus status, e gráficos por empresas e seus projetos. O sistema tem um serviço de busca de projetos, com filtragem de: status, empresa e colaborador. Clicando no projeto desejado pode-se ver detalhes como data de inicio, data que foi finalizado, tempo de duração, descrição e status. <br>
 
 IMAGENS/VIDEOS SOBRE O PROJETO. 
 
@@ -69,26 +67,24 @@ IMAGENS/VIDEOS SOBRE O PROJETO.
 - HTML5: Para criação das telas.
 - CSS3: Usado para estilizar as paginas do projeto.
 - FIGMA: Usado para criar protótipo das telas.
-- Javascript: ---
+- Javascript: Interação e lógica front-end.
 - PHP: Usado para conexão com o banco de dados e manipulação dos dados.
-- Sql: Usado para criação banco de dados.
-- MySql: Gerenciador de Banco de dados.
-Apresente brevemente as tecnologias utilizadas. Uma tecnologia por linha. Indique qual a importância de cada tecnologia para o projeto.
+- SQL: Usado para criação banco de dados.
+- MySQL: Gerenciador de Banco de dados.
 
 #### Contribuições Pessoais
-Contribui com o front-end, usando figma para protótipo, Html e css para criação e estilização das telas. 
+Contribui com o front-end, usando figma para protótipo, Html e css para criação e estilização das telas. Contribui parcialmente com a criação do manual de usuário.  
 
 #### Hard Skills
 - Javascript: Sei fazer com ajuda.
 - HTML: Sei fazer com autonomia.
 - CSS: Sei fazer com autonomia.
-- Sql: Sei fazer com ajuda.
+- SQL: Sei fazer com ajuda.
 
 #### Soft Skills
 - Comunicação: Reuniões semanais com o time para esclarecimento de dúvidas e tarefas e andamento do projeto.
-- Proatividade: 
-- Trabalho em Equipe:
-- Organização:
+- Proatividade: Pesquisa sobre tecnologias para melhor aplicação no desenvolvimento do projeto.
+- Organização: Colaborar e documentar todos os passos que fiz em relação a cumprimento ou mudanças de tarefas das sprints em plataformas de canvas. 
 
 ### 1° semestre de 2022 TECSUS
 #### 3° semestre
@@ -104,10 +100,10 @@ IMAGENS/VIDEOS DO PROJETO.
 #### Tecnologias Utilizadas
 - HTML5: Utilizado para a connstrução das paginas do aplicativo.
 - CSS3: Usado para estlização.
-- Javascript: --
-- Java: -- 
-- PostgreSQL: --
-- Spring: --
+- Javascript: Usado no front-end para interações da pagina. 
+- Java: Linguagem de desenvolvimento para back-end. 
+- PostgreSQL: Gerenciador de banco de dados. 
+- Spring Boot: Framework facilitador para aplicação java.
 - Bootstrap: Framework utilizado para estilização e responsividade da aplicação.
 
 #### Contribuições Pessoais
