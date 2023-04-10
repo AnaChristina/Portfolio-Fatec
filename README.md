@@ -42,11 +42,11 @@ Para o usuário comum, ele tem que se cadastrar e realizar login para efetuar co
 
 
 #### Contribuições Pessoais
-Atuei como desenvolvedora, contribui com criação do protótipo das telas utilizando a ferramenta Figma, contribui com o desenvolvimento do website e serviços como formas de pagamento, carrinho de compras, utilizandando WordPress. Contribui parcialmente com criação dos didáticos publicados no website.
+Atuei como desenvolvedora, contribui com criação do protótipo das telas utilizando a ferramenta Figma, contribui com o desenvolvimento do website e serviços como formas de pagamento, carrinho de compras, utilizandando WordPress. Contribui parcialmente com criação dos conteúdos didáticos publicados no website.
 
 
 #### Hard Skills
-- WordPress: domínio médio da tecnlogia
+- WordPress: Domínio médio da tecnlogia
 - Figma : Domínio da tecnologia
 
 #### Soft Skills
