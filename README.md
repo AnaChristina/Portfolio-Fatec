@@ -38,7 +38,7 @@ Para o usuário comum, ele tem que se cadastrar e realizar login para efetuar co
 
 
 #### Contribuições Pessoais
-Contribui com criação do protótipo das telas utilizando a ferramenta Figma, contribui com o desenvolvimento do website e serviços como formas de pagamento, carrinho de compras, utilizandando WordPress. Contribui parcialmente com criação dos didáticos publicados no website.
+Atuei como desenvolvedora, contribui com criação do protótipo das telas utilizando a ferramenta Figma, contribui com o desenvolvimento do website e serviços como formas de pagamento, carrinho de compras, utilizandando WordPress. Contribui parcialmente com criação dos didáticos publicados no website.
 
 
 #### Hard Skills
@@ -72,13 +72,13 @@ IMAGENS/VIDEOS SOBRE O PROJETO.
 - MySQL: Gerenciador de Banco de dados.
 
 #### Contribuições Pessoais
-Contribui com o front-end, usando figma para protótipo das telas, HTML e CSS para criação e estilização das telas. Contribui parcialmente com a criação do manual de usuário.  
+Contribui como desenvolvedora front-end pesquisando tecnologias que supriam os requisitos do usuário, usando figma para protótipo das telas, utilizando também HTML e CSS para criação e estilização das telas. Contribui parcialmente com a criação do manual de usuário exigindo organização e domínio sobre a utilização da aplicação. 
 
 #### Hard Skills
-- Javascript: Sei fazer com ajuda.
-- HTML: Sei fazer com autonomia.
-- CSS: Sei fazer com autonomia.
-- SQL: Sei fazer com ajuda.
+- Javascript: Domínio básico
+- HTML: Domínio
+- CSS: Domínio
+- SQL: Domínio básico
 
 #### Soft Skills
 - Comunicação: Reuniões semanais com o time para esclarecimento de dúvidas e tarefas e andamento do projeto.
@@ -106,7 +106,7 @@ IMAGENS/VIDEOS DO PROJETO.
 - Bootstrap: Framework utilizado para estilização e responsividade da aplicação.
 
 #### Contribuições Pessoais
-Contribui como desenvolvedora front-end, aplicando conhecimento de UI/UX focando na experiência do usuário, criei wireframes com a ferramenta Figma e desenvolvi as telas da aplicação com framework Bootstrap para estilização e responsividade, HTML e o CSS para personalização de estilos das páginas.
+Contribui como desenvolvedora front-end, aplicando conhecimento de UI/UX focando na experiência do usuário, criei wireframes com a ferramenta Figma e desenvolvi as telas da aplicação com framework Bootstrap para estilização e responsividade, HTML e o CSS para personalização de estilos das páginas. Neste API precisei aprimorar minhas habilidades de comunicação e responsabilidade com o time, ao perceber que havia alguns problemas com o Scrum Master por não sabermos entrar em um consenso com o time sobre o andamento do projeto e colaborações. Me arrisquei com tecnologias que não tinha muito conhecimento como o Javascript pedindo ajuda aqueles que obtiam conhecimento suficiente para me ajudar a resolver o problema. 
 
 
 #### Hard Skills
@@ -148,7 +148,7 @@ Para o desenvolvimento do projeto as tecnologias utilizadas foram:
 - TypeScript: Linguagem usada no back-end da aplicação e front-end.  
 
 #### Contribuições Pessoais
-Atuei como Scrum Master e em algumas sprints atuei com papel de Product Owner. Participei como desenvolvedora front-end criando designers com a ferramente Figma e desenvolvendo os templates e telas da aplicação web com o React JS,Framework Bootstrap, HTML e CSS.
+Atuei como Scrum Master e em algumas sprints atuei com papel de Product Owner em razões de problemas pessoais do integrante que fez papel do Product Owner. Participei como desenvolvedora front-end criando designers com a ferramente Figma e desenvolvendo os templates e telas da aplicação web com o React JS,Framework Bootstrap, HTML e CSS. Tive muita dificuldade para alinhar o time e manter as entregas alinhadas com backlog das sprints, precisado sempre fazer alterações com ciência do cliente. Apesar da dificuldade de lidar com um time pequeno com muitas dificuldades, obtive uma pequena experiência para liderança e resolver conflitos entra os integrantes do time.
 
 #### Hard Skills
 - Estilização com bootstrap: Sei fazer com autonomia.
