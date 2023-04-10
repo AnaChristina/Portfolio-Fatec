@@ -2,8 +2,7 @@
 Trabalho de Graduação 
 
 # Ana Christina Ferreira Dias da Silva
-![](https://geps.dev/progress/100)
-![](https://geps.dev/progress/32?dangerColor=800000&warningColor=ff9900&successColor=006600)
+
 ## Introdução
 
 Faça uma breve introdução sobre você. Fale de sua formação e carreira. Caso aplicável, fale de publicações ou apresentações em eventos da área de computação. Inclua uma foto!
