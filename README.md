@@ -20,7 +20,7 @@ Iniciei os estudos em 2017 na ETEC Ilza Nascimento Pintus, aprendi Java, SQL, HT
 ### 2° semestre de 2020
 #### 1° semestre - EGY CONTEUDO DIDÁTICOS <br>
 EMPRESA PARCEIRA: FATEC SÃO JOSÉ DOS CAMPOS <br>
-A Fatec é uma Faculdade Pública Estadual e todos os cursos oferecidos são gratuitos. 
+A Fatec é uma Faculdade Pública Estadual onde todos os cursos oferecidos são gratuitos. 
 
 Desenvolvimento de uma plataforma de vendas de conteúdos didáticos, no formato webisite para todos os tipos de estudantes, com o intuito de ser de facil acesso e vizualização, de maneira que o usuário possa adquirir um conteúdo, sendo ele com textos, videos ou jogos, sendo disponibilizado na plataforma progressivamente, para download e utilização do usuário. 
 
