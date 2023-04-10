@@ -110,10 +110,10 @@ Contribui como desenvolvedora front-end, aplicando conhecimento de UI/UX focando
 
 
 #### Hard Skills
-- Framework Bootstrap: sei fazer com autonomia.
-- CSS: sei fazer com autonomia.
-- Javascript: sei fazer com ajuda.
-- UI/UX: sei fazer com autonomia.
+- Framework Bootstrap: Domínio.
+- CSS: Domínio.
+- Javascript: Domínio básico.
+- UI/UX: Domínio.
 
 #### Soft Skills
 - Trabalho em Equipe: Saber trabalhar em equipe para entregar um sistema que cumpra os requisitos do cliente, criando um time responsável com cliente e respeito com os integrantes do time.
@@ -151,11 +151,11 @@ Para o desenvolvimento do projeto as tecnologias utilizadas foram:
 Atuei como Scrum Master e em algumas sprints atuei com papel de Product Owner em razões de problemas pessoais do integrante que fez papel do Product Owner. Participei como desenvolvedora front-end criando designers com a ferramente Figma e desenvolvendo os templates e telas da aplicação web com o React JS,Framework Bootstrap, HTML e CSS. Tive muita dificuldade para alinhar o time e manter as entregas alinhadas com backlog das sprints, precisado sempre fazer alterações com ciência do cliente. Apesar da dificuldade de lidar com um time pequeno com muitas dificuldades, obtive uma pequena experiência para liderança e resolver conflitos entra os integrantes do time.
 
 #### Hard Skills
-- Estilização com bootstrap: Sei fazer com autonomia.
-- Criação de estilos com CSS: sei fazer com autonomia.
-- UI/UX: Sei fazer com autonomia.
-- Javascript: sei fazer com ajuda.
-- React JS: sei fazer com ajuda.
+- Estilização com bootstrap: Domínio.
+- Criação de estilos com CSS: Domínio.
+- UI/UX: Domínio.
+- Javascript: Domínio básico.
+- React JS: Domínio básico.
 
 #### Soft Skills
 - Liderança: Tive que adotar um papel de lider porque havia muitos problemas entre os integrantes do time.
