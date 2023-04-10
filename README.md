@@ -4,8 +4,9 @@ Trabalho de Graduação
 # Ana Christina Ferreira Dias da Silva
 
 ## Introdução
+Iniciei meus estudos na área da informática no ano de 2017 com um curso Técnico em Informática realizado pela ETEC, no curso aprendi linguagens de programação como Java e SQL, participei de projetos como ITA CHALLENGE 2017 apresentando um projeto em grupo. Após me formar no curso técnico, ingressei na FATEC São José dos Campos em epoca de pandemia, onde as aulas eram online. Desde então venho aprimorando meus conhecimentos em desenvolvimento de aplicações, aprendendo a cada semestre com Aprendizagem Projeto Integrador, que nos desafia e proporciona obter as hard/soft skills com maior demanda no mercado de trabalho.
+Atualmente meu foco esta sendo UI/UX e desenvolvimento front-end, mas pretendo ser FullStack trabalhando com desenvolvimento de aplicações web e mobile. 
 
-Faça uma breve introdução sobre você. Fale de sua formação e carreira. Caso aplicável, fale de publicações ou apresentações em eventos da área de computação. Inclua uma foto!
 
 ## Contatos
 * [GIT](https://www.github.com/AnaChristina)
