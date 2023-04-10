@@ -2,7 +2,8 @@
 Trabalho de Graduação 
 
 # Ana Christina Ferreira Dias da Silva
-
+![](https://geps.dev/progress/100)
+![](https://geps.dev/progress/32?dangerColor=800000&warningColor=ff9900&successColor=006600)
 ## Introdução
 
 Faça uma breve introdução sobre você. Fale de sua formação e carreira. Caso aplicável, fale de publicações ou apresentações em eventos da área de computação. Inclua uma foto!
@@ -44,7 +45,6 @@ Contribui com criação do protótipo das telas utilizando a ferramenta Figma, c
 #### Hard Skills
 - WordPress: domínio médio da tecnlogia
 - Figma : Domínio da tecnologia
--
 
 #### Soft Skills
 - Comunicação: Para buscar e passar informações entre o time e o cliente na reuniões diárias.
@@ -73,7 +73,7 @@ IMAGENS/VIDEOS SOBRE O PROJETO.
 - MySQL: Gerenciador de Banco de dados.
 
 #### Contribuições Pessoais
-Contribui com o front-end, usando figma para protótipo, Html e css para criação e estilização das telas. Contribui parcialmente com a criação do manual de usuário.  
+Contribui com o front-end, usando figma para protótipo das telas, HTML e CSS para criação e estilização das telas. Contribui parcialmente com a criação do manual de usuário.  
 
 #### Hard Skills
 - Javascript: Sei fazer com ajuda.
@@ -107,7 +107,7 @@ IMAGENS/VIDEOS DO PROJETO.
 - Bootstrap: Framework utilizado para estilização e responsividade da aplicação.
 
 #### Contribuições Pessoais
-Contribui como desenvolvedora front-end, aplicando conhecimento de UI/UX, criando wireframes com a ferramenta Figma e desenvolvendo as telas da aplicação com Bootstrap, HTML e CSS.
+Contribui como desenvolvedora front-end, aplicando conhecimento de UI/UX focando na experiência do usuário, criei wireframes com a ferramenta Figma e desenvolvi as telas da aplicação com framework Bootstrap para estilização e responsividade, HTML e o CSS para personalização de estilos das páginas.
 
 
 #### Hard Skills
