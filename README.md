@@ -12,7 +12,7 @@ Faça uma breve introdução sobre você. Fale de sua formação e carreira. Cas
 * [LinkedIn](https://www.linkedin.com/in/ana-christina-silva/)
 
 ## Meus Principais Conhecimentos
-Iniciei os estudos em 2017 na ETEC Ilza Nascimento Pintus, aprendi Java, SQL, HTML e CSS, e com os estudos na FATEC São José dos Campos aprimorei meu conhecimentos em HTML, CSS, aprendi Metodologia Ágil, Javascript e Typescript. Pretendo desenvolver durante a minha carreira as hard skills em desenvolvimento para me tornar full stack, atualmente meu foco é front-end e desginer UI/UX. 
+Iniciei os estudos em 2017 na ETEC Ilza Nascimento Pintus, aprendi Java, SQL, HTML e CSS, e com os estudos na FATEC São José dos Campos aprimorei meu conhecimentos em HTML, CSS, aprendi Metodologia Ágil, Javascript e Typescript. Pretendo desenvolver durante a minha carreira as hard skills em desenvolvimento para me tornar full stack. Atualmente meu foco é front-end e desginer UI/UX. 
 
 ## Meus Projetos
 
