@@ -29,6 +29,11 @@ PROBLEMA: O desafio era desenvolver de uma plataforma de vendas de conteúdos di
 SOLUÇÃO: Criamos então o site Egy Conteúdo Didáticos, onde o usuario pode comprar o conteúdo em formato de video, jogos ou arquivos de texto. O site conta com login administrador para administrar conteúdos, fazer levantamento de vendas gerando relatórios. 
 Para o usuário comum, ele tem que se cadastrar e realizar login para efetuar compras no site, filtrar buscas, adicionar items ao carrinho e listas de desejos, realizar comentários sobre um conteúdo adiquirido e ver todos os produtos que adiquiriu no site. Escolhendo o produto o usuário pode escolher a forma que deseja efetuar o pagamento com: cartão de crédito, cartão de débito, boleto ou Pay Pal. 
 
+<img src="https://user-images.githubusercontent.com/71477357/96354631-0f7b6b80-10af-11eb-9acc-50460944b076.jpg"> <br>
+* Protótipos da interface do site
+    * [Vizualização como usuário](https://www.figma.com/proto/Mr6AC6NfZzZOdZQy1hs5eZ/Layouts-site-User?node-id=2%3A2&viewport=250%2C207%2C0.08702971041202545&scaling=min-zoom)
+    * [Vizualização como Administrador](https://www.figma.com/proto/gISuDpX5GsgKIlZ7cD9izU/Layouts-Site-ADM?node-id=1%3A463&viewport=493%2C496%2C0.10961420089006424&scaling=min-zoom)
+
 [GIT](https://github.com/AnaChristina/EGY-Conteudos-Didaticos)
 
 #### Tecnologias Utilizadas
