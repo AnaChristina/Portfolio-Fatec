@@ -2,6 +2,8 @@
 Trabalho de Graduação 
 
 # Ana Christina Ferreira Dias da Silva
+<p align="center"><img src="https://user-images.githubusercontent.com/43580298/230980165-506105f6-c577-4063-a078-dbbc6f2de9a9.jpg" width="25%"></p>
+
 
 ## Introdução
 Iniciei meus estudos na área da informática no ano de 2017 com um curso Técnico em Informática realizado pela ETEC, no curso aprendi linguagens de programação como Java e SQL, participei de projetos como ITA CHALLENGE 2017 apresentando um projeto em grupo. Após me formar no curso técnico, ingressei na FATEC São José dos Campos em epoca de pandemia, onde as aulas eram online. Desde então venho aprimorando meus conhecimentos em desenvolvimento de aplicações, aprendendo a cada semestre com Aprendizagem Projeto Integrador, que nos desafia e proporciona obter as hard/soft skills com maior demanda no mercado de trabalho.
