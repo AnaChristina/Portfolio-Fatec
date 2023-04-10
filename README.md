@@ -33,17 +33,17 @@ Para o usuário comum, ele tem que se cadastrar e realizar login para efetuar co
 [GIT](https://github.com/AnaChristina/EGY-Conteudos-Didaticos)
 
 #### Tecnologias Utilizadas
-- 
-- 
-- 
+- WordPress: Usado para criação e serviços do website.
+- Figma: Usado para protótipo de telas do website. 
 
 
 #### Contribuições Pessoais
-Apresente suas contribuições no projeto. Foque nas funcionalidades em que você mais atuou. Descreva sua atuação em detalhes, especificando que tecnologias você utilizou.
+Contribui com criação do protótipo das telas utilizando a ferramenta Figma, contribui com o desenvolvimento do website e serviços como formas de pagamento, carrinho de compras, utilizandando WordPress. Contribui parcialmente com criação dos didáticos publicados no website.
+
 
 #### Hard Skills
--
--
+- WordPress: domínio médio da tecnlogia
+- Figma : Domínio da tecnologia
 -
 
 #### Soft Skills
