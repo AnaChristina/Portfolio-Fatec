@@ -1,4 +1,4 @@
-# Portifolio-fatec
+# Portfólio-fatec
 Trabalho de Graduação 
 
 # Ana Christina Ferreira Dias da Silva
