@@ -10,12 +10,27 @@ Iniciei meus estudos na área da informática no ano de 2017 com um curso Técni
 Atualmente meu foco esta sendo UI/UX e desenvolvimento front-end, mas pretendo ser FullStack trabalhando com desenvolvimento de aplicações web e mobile. 
 
 
-## Contatos
+## Contatos 
+
 * [GIT](https://www.github.com/AnaChristina)
 * [LinkedIn](https://www.linkedin.com/in/ana-christina-silva/)
+* [E-mail](mailto:anachr870@gmail.com)
 
 ## Meus Principais Conhecimentos
 Iniciei os estudos em 2017 na ETEC Ilza Nascimento Pintus, aprendi Java, SQL, HTML e CSS, e com os estudos na FATEC São José dos Campos aprimorei meu conhecimentos em HTML, CSS, aprendi Metodologia Ágil, Javascript e Typescript. Pretendo desenvolver durante a minha carreira as hard skills em desenvolvimento para me tornar full stack. Atualmente meu foco é front-end e desginer UI/UX. 
+<div style="display: inline_block"><br>
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  
+
+
+ </div>
 
 ## Meus Projetos
 
