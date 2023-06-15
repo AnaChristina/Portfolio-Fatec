@@ -185,6 +185,48 @@ Atuei como Scrum Master e em algumas sprints atuei com papel de Product Owner em
 
 ### 1° semestre de 2023 IACIT
 #### 5° semestre
+EMPRESA PARCEIRA: IACIT <br>
+A IACIT é uma empresa brasileira que possui capacitação tecnológica para o desenvolvimento de diversos produtos. O seu portfólio abrange as áreas de Meteorologia Radar, CNS/ATM, Defesa e Segurança Pública, Telemetria e Tecnologias da Informação, Comunicação, Automação e Controle. Atualmente, os clientes enviam ROs (Registros de Ocorrência) por vários meios de comunicação: aplicativos, e-mail, telefone, etc. <br>
+
+PROBLEMA: A empresa parceira nos desafiou a desenvolver uma aplicação híbrida/responsiva, que funcione como um Serviço de Atendimento ao Cliente, onde o usuário cria um registro de ocorrência, podendo também entrar em contato com um administrador(programador da equipe) via chat. Os administradores deveriam poder verificar os registros de ocorrência, tendo um maior controle administrativo, podendo realizar buscar dos registros por meio de filtragens. <br>
+
+SOLUÇÃO: Desenvolvemos um aplicativo responsivo, onde o usuário pode se cadastrar, efetuar login e fazer o registro de ocorrência (RO's), podendo verificar o status das RO por 'Pendente, Em Atendimento e Atendido' podendo fazer uma busca por filtragem. O perfil do administrador conta com uma filtragem das RO de todos os usuários. O aplicativo possui chat para contato entre usuário e administrador. O aplicativo conta também com duas das leis gerais de proteção de dados: Opt-in Opt-Out e Exclusão de Dados. 
+
+<img src=""> <br>
+
+* [Protótipos da interface do APP](https://www.figma.com/file/nrn9Xi9nnMZ2nHNpEw5TfX/Iacit-API?type=design&node-id=0%3A1&t=7mONesrxYPTjH1wU-1) <br>
+
+[GIT](https://github.com/PowerTech5API/iacity)
+
+#### Tecnologias Utilizadas
+- <img align="center"  height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">**Figma:** Usado para protótipo de telas</img> 
+- <img align="center"  height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">**React Native:** Usando para criação e desenvolvimento do aplicativo.
+- <img align="center"  height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">**Node.js:** 
+- <img align="center"  height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">**MongoDB:** Banco de Dados
+- <img align="center"  height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg">**Heroku:** Usado para subir o banco de dados na nuvem.
+- <img align="center"  height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">**Typescript:** Linguagem usada para desenvolvimento
+- <img align="center"  height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg">**Visual Studio Code:** Editor de códigos. 
+- <img align="center"  height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg">**Discord:** Usado para comunicação e reunião do time.
+
+
+#### Contribuições Pessoais
+
+
+
+#### Hard Skills
+- Figma : Domínio da tecnologia
+-
+-
+-
+
+
+#### Soft Skills
+- Comunicação: Neste api precisei muito entrar em contato com os desenvolvedores responsáveis pelo back-end. Precisei aprimorar meu vocabulário para apresentar o projeto a cada final de sprint para o cliente, entregando a informação de forma clara e direta. 
+- Trabalho em equipe: A cada sprint uma nova funcionalidade tinha que ser implementada no projeto, precisando o back-end e o front-end entrar em acordo sobre o desenvolvimento da aplicação.
+- Proatividade: 
+- Organização: Administrei o backlog do projeto no github, adicionando task's novas, movendo-as de acordo com seu status.
+- 
+
 
 ### 2° semestre de 2023 -----
 #### 6° semestre
