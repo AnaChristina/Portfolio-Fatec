@@ -133,7 +133,7 @@ Contribui como desenvolvedora front-end, aplicando conhecimento de UI/UX focando
 - Framework Bootstrap: Domínio.
 - CSS: Domínio.
 - Javascript: Domínio básico.
-- UI/UX: Domínio.
+- UI/UX: Domínio Médio.
 
 #### Soft Skills
 - Trabalho em Equipe: Saber trabalhar em equipe para entregar um sistema que cumpra os requisitos do cliente, criando um time responsável com cliente e respeito com os integrantes do time.
@@ -173,7 +173,7 @@ Atuei como Scrum Master e em algumas sprints atuei com papel de Product Owner em
 #### Hard Skills
 - Estilização com bootstrap: Domínio.
 - Criação de estilos com CSS: Domínio.
-- UI/UX: Domínio.
+- UI/UX: Domínio Médio
 - Javascript: Domínio básico.
 - React JS: Domínio básico.
 
@@ -210,22 +210,24 @@ SOLUÇÃO: Desenvolvemos um aplicativo responsivo, onde o usuário pode se cadas
 
 
 #### Contribuições Pessoais
-
+Contribui com desenvolvimento do Layout da aplicação no figma, o desenvolvimento das telas como: pagina home, tela de registros, chat, detalhe dos registros utilizando os componentes do React Native e a linguagem de programação Typescript e estilização com CSS. Contribui um pouco com a conexão do front-end com backend na página de registros das ocorrências.
 
 
 #### Hard Skills
 - Figma : Domínio da tecnologia
--
--
--
+- React Native: 
+- Typescript: Domínio Básico
+- NodeJS: Domínio Básico
+- MongoDB: Domínio Básico
+- UX/UI: Domínio Médio
+- CSS: Domínio Médio.
 
 
 #### Soft Skills
 - Comunicação: Neste api precisei muito entrar em contato com os desenvolvedores responsáveis pelo back-end. Precisei aprimorar meu vocabulário para apresentar o projeto a cada final de sprint para o cliente, entregando a informação de forma clara e direta. 
 - Trabalho em equipe: A cada sprint uma nova funcionalidade tinha que ser implementada no projeto, precisando o back-end e o front-end entrar em acordo sobre o desenvolvimento da aplicação.
-- Proatividade: 
-- Organização: Administrei o backlog do projeto no github, adicionando task's novas, movendo-as de acordo com seu status.
-- 
+- Organização: Ajudei a administrar o backlog do projeto no github, adicionando task's novas, movendo-as de acordo com seu status.
+- Proatividade.
 
 
 ### 2° semestre de 2023 -----
