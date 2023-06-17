@@ -37,6 +37,7 @@ Iniciei os estudos em 2017 na ETEC Ilza Nascimento Pintus, aprendi Java, SQL, HT
 ### 2° semestre de 2020
 #### 1° semestre - EGY CONTEUDO DIDÁTICOS <br>
 EMPRESA PARCEIRA: FATEC SÃO JOSÉ DOS CAMPOS <br>
+![fatec](https://github.com/AnaChristina/Portfolio-Fatec/assets/43580298/822d264f-77a5-4c1f-9617-5928b8f16602) <br>
 A Fatec é uma Faculdade Pública Estadual onde todos os cursos oferecidos são gratuitos. <br>
 
 PROBLEMA: O desafio era desenvolver de uma plataforma de vendas de conteúdos didáticos, no formato webisite para todos os tipos de estudantes, com o intuito de ser de facil acesso e vizualização, de maneira que o usuário possa adquirir um conteúdo, sendo ele com textos, videos ou jogos, sendo disponibilizado na plataforma progressivamente, para download e utilização do usuário. O deveria se destacar de outros sites de vendas de conteúdos didáticos e que aumentasse o lucro da empresa.<br>
@@ -69,8 +70,9 @@ Atuei como desenvolvedora, contribui com criação do protótipo das telas utili
 - Trabalho em equipe: Divisão de tarefas e ajuda.
 - Proatividade: Para realizar entregas na data certa e evitar atrasos na sprint.
 
-### 2° semestre de 2021 GSW <br>
+### 2° semestre de 2021<br>
 EMPRESA PARCEIRA: GSW <br>
+<img src="https://github.com/AnaChristina/CRUD/blob/main/Imagens/GSW%20-%20Logo1.png" height="100" width="300" /> <br>
 A GSW é uma empresa que fornece produtos de software para gestão empresarial que auxiliam os clientes a ter um melhor controle de suas atividades, reduzindo custos e aumentando a produtividade nos processos do dia a dia. As principais unidades operacionais são: fábrica de software, desenvolvimento de sistemas, transformação digital, SAP ERP, ERP Microsoft Dynamics 365, Gestão Tributária, BPO Fiscal e Contábil, Sistemas de Comércio Exterior e CRM. Desenvolveu produtos específicos, principalmente com bots para automação de processos tributários e fiscais e atendimento virtual ao cliente para empresas como Panasonic, Microsoft, Ericsson, 3M e Johnson & Johnson.<br>
 
 PROBLEMA: A empresa nos desafiou a criar uma aplicação que ajudasse a gerenciar projetos de seus clientes mostrando uma análise, com diferentes tipos de gráficos, sobre os projetos que estão com status finalizado ou em andamento. <br>
@@ -104,9 +106,10 @@ Contribui como desenvolvedora front-end pesquisando tecnologias que supriam os r
 - Proatividade: Pesquisa sobre tecnologias para melhor aplicação no desenvolvimento do projeto.
 - Organização: Colaborar e documentar todos os passos que fiz em relação a cumprimento ou mudanças de tarefas das sprints em plataformas de canvas. 
 
-### 1° semestre de 2022 TECSUS
+### 1° semestre de 2022
 #### 3° semestre
 EMPRESA PARCEIRA: TECSUS <br>
+![tecsus](https://github.com/AnaChristina/Portfolio-Fatec/assets/43580298/7a88ccbd-fd98-414e-b52e-006277e2a237 )<br>
 A Tecsus é uma startup que desenvolve dispositivos, aplicativos e sistemas para a transmissão e recepção de dados, controle de equipamentos remotos e gestão de faturas. Aplicados nos setores de abastecimento de água, distribuição de eletricidade e gás natural. <br>
 <br>
 PROBLEMA: Com uma grande demanda de processamento de contas de energia, água e gás a empresa TecSus queria um sistema para otimizar o tempo gasto nos processamentos das contas de água, luz e gás. Presando que a interface de digitação (cadastro) das contas, deve possuir um UX que facilite a operação de visualização da conta em PDF para digitação dos campos da conta, com uso de atalhos no teclado e navegação via teclas. <br>
@@ -130,7 +133,7 @@ Contribui como desenvolvedora front-end, aplicando conhecimento de UI/UX focando
 
 
 #### Hard Skills
-- Framework Bootstrap: Domínio.
+- Framework Bootstrap: Domínio Médio.
 - CSS: Domínio.
 - Javascript: Domínio básico.
 - UI/UX: Domínio Médio.
@@ -141,9 +144,10 @@ Contribui como desenvolvedora front-end, aplicando conhecimento de UI/UX focando
 - Proatividade: Buscar por conhecimentos UX/UI, para aplicar no projeto e entregar um designer compreensivel e de fácil usuabilidade para o cliente. 
 - Trabalho em Equipe: Precisei aprender a dar a minha opinião sobre o projeto sem gerar conflitos com o time. 
 
-### 2° semestre de 2022 2RP
+### 2° semestre de 2022
 #### 4° semestre
 EMPRESA PARCEIRA: 2RP  <br>
+<img src="https://www.2rpnet.com.br/assets/images/2rp-net.svg" width="300" height="300"/> <br>
 2RP é uma empresa de tecnologia focada em soluções e serviços em TI que disponibiliza soluções para análise de informações em tempo real, de modo a permitir a tomada de decisões de negócios que precisam atender requisitos de tempo extremamente rigorosos. <br>
 
 PROBLEMA: A empresa desejava um sistema que ajudasse a controlar a jornada de trabalho de seus colaboradores, como a hora extra e sobreavisos. Sendo possível aprovar ou não sobreavisos e horas extras.
@@ -183,9 +187,10 @@ Atuei como Scrum Master e em algumas sprints atuei com papel de Product Owner em
 - Organização: Precisei exercitar a minha organização para bom planejamento das sprints e entregas do projeto.
 - Proatividade: Como um time pequeno, meu nível de proatividade cresceu muito para realização das entregas das sprint.
 
-### 1° semestre de 2023 IACIT
+### 1° semestre de 2023
 #### 5° semestre
 EMPRESA PARCEIRA: IACIT <br>
+![logo-negativo](https://github.com/AnaChristina/Portfolio-Fatec/assets/43580298/d30d2b7b-901a-42c2-9a15-b986fbd05067)<br>
 A IACIT é uma empresa brasileira que possui capacitação tecnológica para o desenvolvimento de diversos produtos. O seu portfólio abrange as áreas de Meteorologia Radar, CNS/ATM, Defesa e Segurança Pública, Telemetria e Tecnologias da Informação, Comunicação, Automação e Controle. Atualmente, os clientes enviam ROs (Registros de Ocorrência) por vários meios de comunicação: aplicativos, e-mail, telefone, etc. <br>
 
 PROBLEMA: A empresa parceira nos desafiou a desenvolver uma aplicação híbrida/responsiva, que funcione como um Serviço de Atendimento ao Cliente, onde o usuário cria um registro de ocorrência, podendo também entrar em contato com um administrador(programador da equipe) via chat. Os administradores deveriam poder verificar os registros de ocorrência, tendo um maior controle administrativo, podendo realizar buscar dos registros por meio de filtragens. <br>
@@ -210,7 +215,7 @@ SOLUÇÃO: Desenvolvemos um aplicativo responsivo, onde o usuário pode se cadas
 
 
 #### Contribuições Pessoais
-Contribui com desenvolvimento do Layout da aplicação no figma, o desenvolvimento das telas como: pagina home, tela de registros, chat, detalhe dos registros utilizando os componentes do React Native e a linguagem de programação Typescript e estilização com CSS. Contribui um pouco com a conexão do front-end com backend na página de registros das ocorrências.
+Contribui com desenvolvimento do Layout da aplicação no figma, o desenvolvimento das telas como: pagina home, filtragem de registros, tela de registros, chat, detalhe dos registros utilizando os componentes do React Native e a linguagem de programação Typescript e estilização com CSS. Contribui um pouco com a conexão do front-end com backend na página de registros das ocorrências.
 
 
 #### Hard Skills
