@@ -78,8 +78,7 @@ A GSW é uma empresa que fornece produtos de software para gestão empresarial q
 PROBLEMA: A empresa nos desafiou a criar uma aplicação que ajudasse a gerenciar projetos de seus clientes mostrando uma análise, com diferentes tipos de gráficos, sobre os projetos que estão com status finalizado ou em andamento. <br>
 
 SOLUÇÂO: Desenvolvemos uma aplicação web, que contém as empresas clientes que estavam cadastradas no banco de dados da GSW, que a mesma disponibilizou para a equipe, onde se é possível verificar quantos projetos estão em processo de desenvolvimento e quais estão finalizados, sendo possível ver esta análise com diferentes gráficos. Também sendo possível ver gráficos de projetos por colaboradores e seus status, e gráficos por empresas e seus projetos. O sistema tem um serviço de busca de projetos, com filtragem de: status, empresa e colaborador. Clicando no projeto desejado pode-se ver detalhes como data de inicio, data que foi finalizado, tempo de duração, descrição e status. <br>
-
-IMAGENS/VIDEOS SOBRE O PROJETO. 
+![](https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%204/GIF-PROJETO-SPRINT-4.gif)
 
 [GIT](https://github.com/cpusfatec/DashBoard)
 
@@ -116,6 +115,7 @@ PROBLEMA: Com uma grande demanda de processamento de contas de energia, água e 
 
 SOLUÇÃO: A solução foi criar uma aplicação web que otimiza o processameto do cadastro das contas de água, luz e gás. Para cadastro o digitador precisava cadastrar o cliente, concessionárias como por exemplo a SABESP, e a instalação/unidade. Para agilizar o cadastro o digitador importava um PDF da conta de luz, água ou gás que pode ser aberto ao lado da pagina de cadastro de contas para obter com rapidez os dados necessários para cadastro da conta. Os campos de preenchimento para cadastro de contas seguem o padrão das contas físicas facilitando o preenchimento dos dados. A aplicação também exibe alertas na tela para confirmar dados e evitar erros. Sistema tem usuário administrador e gestor para criação de relatório de gastos <br>
 IMAGENS/VIDEOS DO PROJETO.
+* [Protótipos da interface do APP](https://www.figma.com/file/ycmcA62yH9gHgNh4iTWHP4/PrototipoTecSus?type=design&t=vtctQ1J3H3ofvsLY-0) <br>
 
 [GIT](https://github.com/UniversalDevs/Projeto_API_TecSus)
 
@@ -152,9 +152,12 @@ EMPRESA PARCEIRA: 2RP  <br>
 
 PROBLEMA: A empresa desejava um sistema que ajudasse a controlar a jornada de trabalho de seus colaboradores, como a hora extra e sobreavisos. Sendo possível aprovar ou não sobreavisos e horas extras.
 
-SOLUÇÃO: Foi desenvolvido uma aplicação web, para controle de hora extra e sobreavisos dos colaboradores da empresa. Na aplicação, os colaboradores podem cadastrar uma hora extra, essa hora extra é enviada para o administrador que pode aceitar ou não a hora extra do colaborador. O mesmo é feito para caso de sobreaviso, o colaborador cadastra o sobreaviso e o administrador aceita o sobreaviso ou não.
-<br>
-IMAGENS/VIDEOS SOBRE O PROJETO;
+SOLUÇÃO: Foi desenvolvido uma aplicação web, para controle de hora extra e sobreavisos dos colaboradores da empresa. Na aplicação, os colaboradores podem cadastrar uma hora extra, essa hora extra é enviada para o administrador que pode aceitar ou não a hora extra do colaborador. O mesmo é feito para caso de sobreaviso, o colaborador cadastra o sobreaviso e o administrador aceita o sobreaviso ou não.<br>
+
+tela hora extra:<br>
+![tela hora extra](https://github.com/AnaChristina/Portfolio-Fatec/assets/43580298/87174d2e-160a-4445-8db8-3425e25606e1)<br>
+tela gestor:<br>
+![tela gestor](https://github.com/AnaChristina/Portfolio-Fatec/assets/43580298/35d3b07c-9391-40f9-9417-25a975884b5a) <br>
 
 [GIT](https://github.com/2rp-net-API/Documentacao)
 
@@ -197,7 +200,8 @@ PROBLEMA: A empresa parceira nos desafiou a desenvolver uma aplicação híbrida
 
 SOLUÇÃO: Desenvolvemos um aplicativo responsivo, onde o usuário pode se cadastrar, efetuar login e fazer o registro de ocorrência (RO's), podendo verificar o status das RO por 'Pendente, Em Atendimento e Atendido' podendo fazer uma busca por filtragem. O perfil do administrador conta com uma filtragem das RO de todos os usuários. O aplicativo possui chat para contato entre usuário e administrador. O aplicativo conta também com duas das leis gerais de proteção de dados: Opt-in Opt-Out e Exclusão de Dados. 
 
-<img src=""> <br>
+<img src="https://user-images.githubusercontent.com/101262618/229361742-cfc8897e-1757-4af0-8570-42398c014ba1.gif" width="400px" />
+<img src="https://github.com/PowerTech5API/iacity/assets/79669245/699bfb9a-b5af-4234-9abd-737777c1d0cf" width="400px" /><br>
 
 * [Protótipos da interface do APP](https://www.figma.com/file/nrn9Xi9nnMZ2nHNpEw5TfX/Iacit-API?type=design&node-id=0%3A1&t=7mONesrxYPTjH1wU-1) <br>
 
