@@ -114,7 +114,9 @@ A Tecsus é uma startup que desenvolve dispositivos, aplicativos e sistemas para
 PROBLEMA: Com uma grande demanda de processamento de contas de energia, água e gás a empresa TecSus queria um sistema para otimizar o tempo gasto nos processamentos das contas de água, luz e gás. Presando que a interface de digitação (cadastro) das contas, deve possuir um UX que facilite a operação de visualização da conta em PDF para digitação dos campos da conta, com uso de atalhos no teclado e navegação via teclas. <br>
 
 SOLUÇÃO: A solução foi criar uma aplicação web que otimiza o processameto do cadastro das contas de água, luz e gás. Para cadastro o digitador precisava cadastrar o cliente, concessionárias como por exemplo a SABESP, e a instalação/unidade. Para agilizar o cadastro o digitador importava um PDF da conta de luz, água ou gás que pode ser aberto ao lado da pagina de cadastro de contas para obter com rapidez os dados necessários para cadastro da conta. Os campos de preenchimento para cadastro de contas seguem o padrão das contas físicas facilitando o preenchimento dos dados. A aplicação também exibe alertas na tela para confirmar dados e evitar erros. Sistema tem usuário administrador e gestor para criação de relatório de gastos <br>
-IMAGENS/VIDEOS DO PROJETO.
+
+<img src="./imagens/AplicacaoRodando-Tecsus.gif">
+
 * [Protótipos da interface do APP](https://www.figma.com/file/ycmcA62yH9gHgNh4iTWHP4/PrototipoTecSus?type=design&t=vtctQ1J3H3ofvsLY-0) <br>
 
 [GIT](https://github.com/UniversalDevs/Projeto_API_TecSus)
