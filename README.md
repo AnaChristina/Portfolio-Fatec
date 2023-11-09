@@ -243,6 +243,42 @@ Contribui com desenvolvimento do Layout da aplicação no figma, o desenvolvimen
 
 ### 2° semestre de 2023 -----
 #### 6° semestre
+EMPRESA PARCEIRA: PRO4TECH <br>
+<img src="" height="100" width="300" /> <br>
+A PRO4TECH  é uma empresa que....... <br>
+
+PROBLEMA:O objetivo é criar uma aplicação web capaz de identificar candidatos ideais para cargos específicos, utilizando Inteligência Artificial para avaliar o perfil com base nos critérios de Conhecimento, Habilidades e Atitudes (CHA) necessários para a função.<br>
+
+SOLUÇÂO: Foi desenvolvido uma aplicação web que gera o CHA (Conhecimento, Habilidade e Atitudes) de determinada profissão de acordo com o nível de sua atuação (Junior, Pleno e Senior). 
+Com o CHA gerado, a inteligência artificial analisa o currículo dos candidatos e aplica o CHA por cima destes, retornando ao usuário uma lista com os candidatos mais qualificados para o cargo escolhido.<br>
+![](https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%204/GIF-PROJETO-SPRINT-4.gif)
+
+[GIT](https://github.com/cpusfatec/DashBoard)
+
+#### Tecnologias Utilizadas
+- HTML5: Para criação das telas.
+- CSS3: Usado para estilizar as paginas do projeto.
+- FIGMA: Usado para criar protótipo das telas.
+- Typescript: Interação e lógica front-end.
+- Python: Usado para conexão com o banco de dados e manipulação dos dados.
+- Java Springboot: Usado para criação banco de dados.
+- ChatGPT: Gerenciador de Banco de dados.
+- Sweager:
+- 
+
+#### Contribuições Pessoais
+Contribui como desenvolvedora front-end pesquisando tecnologias que supriam os requisitos do usuário, usando figma para protótipo das telas, utilizando também HTML e CSS para criação e estilização das telas. Contribui parcialmente com a criação do manual de usuário exigindo organização e domínio sobre a utilização da aplicação. 
+
+#### Hard Skills
+- Javascript: Domínio básico
+- HTML: Domínio
+- CSS: Domínio
+- SQL: Domínio básico
+
+#### Soft Skills
+- Comunicação: Reuniões semanais com o time para esclarecimento de dúvidas e tarefas e andamento do projeto.
+- Proatividade: Pesquisa sobre tecnologias para melhor aplicação no desenvolvimento do projeto.
+- Organização: Colaborar e documentar todos os passos que fiz em relação a cumprimento ou mudanças de tarefas das sprints em plataformas de canvas. 
 
 
 
