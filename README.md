@@ -262,9 +262,12 @@ Com o CHA gerado, a inteligência artificial analisa o currículo dos candidatos
 - Typescript: Interação e lógica front-end.
 - Python: Usado para conexão com o banco de dados e manipulação dos dados.
 - Java Springboot: Usado para criação banco de dados.
-- ChatGPT: Gerenciador de Banco de dados.
-- Sweager:
+- ChatGPT: Utilizado para gerar o CHA ( Conhecimentos, Habilidades e Atitudes) da profissão desejada. 
 - 
+- Swagger: Servidor.
+- PostgreSQL: Banco de Dados.
+- Jira Software: Administração das task das sprints, backlog e burndown. 
+- Miro: Planning das Sprint
 
 #### Contribuições Pessoais
 Contribui como desenvolvedora front-end pesquisando tecnologias que supriam os requisitos do usuário, usando figma para protótipo das telas, utilizando também HTML e CSS para criação e estilização das telas. Contribui parcialmente com a criação do manual de usuário exigindo organização e domínio sobre a utilização da aplicação. 
