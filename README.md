@@ -149,7 +149,8 @@ Contribui como desenvolvedora front-end, aplicando conhecimento de UI/UX focando
 ### 2° semestre de 2022
 #### 4° semestre
 EMPRESA PARCEIRA: 2RP  <br>
-<img src="https://www.2rpnet.com.br/assets/images/2rp-net.svg" width="300" height="300"/> <br>
+![2rp](https://github.com/AnaChristina/Portfolio-Fatec/assets/43580298/3560a444-6c5f-4fd7-b704-c1a2db5c6b26)
+ <br>
 2RP é uma empresa de tecnologia focada em soluções e serviços em TI que disponibiliza soluções para análise de informações em tempo real, de modo a permitir a tomada de decisões de negócios que precisam atender requisitos de tempo extremamente rigorosos. <br>
 
 PROBLEMA: A empresa desejava um sistema que ajudasse a controlar a jornada de trabalho de seus colaboradores, como a hora extra e sobreavisos. Sendo possível aprovar ou não sobreavisos e horas extras.
@@ -244,44 +245,48 @@ Contribui com desenvolvimento do Layout da aplicação no figma, o desenvolvimen
 ### 2° semestre de 2023 -----
 #### 6° semestre
 EMPRESA PARCEIRA: PRO4TECH <br>
-<img src="" height="100" width="300" /> <br>
-A PRO4TECH  é uma empresa que....... <br>
+![pro4tech-logo](https://github.com/AnaChristina/Portfolio-Fatec/assets/43580298/685aa986-50e3-4c9f-9e87-2a8a04061f7c)
+ <br>
+A PRO4TECH é especializada em Transformação Digital, comprometendo-se a capacitar negócios para o sucesso na era digital. Combina sua expertise em tecnologias emergentes, como inteligência artificial, análise de dados, IoT e nuvem, aliadas à capacidade de desenvolver estratégias personalizadas para cada negócio. O objetivo da empresa é aumentar a eficiência operacional, melhorar a experiência do cliente e impulsionar o crescimento. <br>
 
 PROBLEMA:O objetivo é criar uma aplicação web capaz de identificar candidatos ideais para cargos específicos, utilizando Inteligência Artificial para avaliar o perfil com base nos critérios de Conhecimento, Habilidades e Atitudes (CHA) necessários para a função.<br>
 
 SOLUÇÂO: Foi desenvolvido uma aplicação web que gera o CHA (Conhecimento, Habilidade e Atitudes) de determinada profissão de acordo com o nível de sua atuação (Junior, Pleno e Senior). 
 Com o CHA gerado, a inteligência artificial analisa o currículo dos candidatos e aplica o CHA por cima destes, retornando ao usuário uma lista com os candidatos mais qualificados para o cargo escolhido.<br>
-![](https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%204/GIF-PROJETO-SPRINT-4.gif)
+![]()
 
-[GIT](https://github.com/cpusfatec/DashBoard)
+[GIT](https://github.com/CodeSquirrel-API/RecrutaTech)
 
 #### Tecnologias Utilizadas
 - HTML5: Para criação das telas.
 - CSS3: Usado para estilizar as paginas do projeto.
 - FIGMA: Usado para criar protótipo das telas.
 - Typescript: Interação e lógica front-end.
-- Python: Usado para conexão com o banco de dados e manipulação dos dados.
+- Python: Machine Learning
 - Java Springboot: Usado para criação banco de dados.
 - ChatGPT: Utilizado para gerar o CHA ( Conhecimentos, Habilidades e Atitudes) da profissão desejada. 
-- 
 - Swagger: Servidor.
 - PostgreSQL: Banco de Dados.
 - Jira Software: Administração das task das sprints, backlog e burndown. 
-- Miro: Planning das Sprint
+- Miro: Planning das Sprints. 
 
 #### Contribuições Pessoais
-Contribui como desenvolvedora front-end pesquisando tecnologias que supriam os requisitos do usuário, usando figma para protótipo das telas, utilizando também HTML e CSS para criação e estilização das telas. Contribui parcialmente com a criação do manual de usuário exigindo organização e domínio sobre a utilização da aplicação. 
+Neste projeto atuei como Product Owner e Desenvolvedora Front-end. 
+Como Product Owner meu desafio foi manter um contato constante com o cliente, descobrindo suas dores, criando e administrando o backlog do produto. 
+Como Desenvolvedora Front-end trabalhei com o time desenvolvendo as telas e funcionalidades do front-end. 
 
 #### Hard Skills
-- Javascript: Domínio básico
+- Typescript: Domínio básico
 - HTML: Domínio
 - CSS: Domínio
-- SQL: Domínio básico
+- Python: Básico
+- Vue.Js: Básico
+- Experiência do Usuário: Médio.
 
 #### Soft Skills
-- Comunicação: Reuniões semanais com o time para esclarecimento de dúvidas e tarefas e andamento do projeto.
-- Proatividade: Pesquisa sobre tecnologias para melhor aplicação no desenvolvimento do projeto.
-- Organização: Colaborar e documentar todos os passos que fiz em relação a cumprimento ou mudanças de tarefas das sprints em plataformas de canvas. 
+- Comunicação: Reuniões semanais com o time para esclarecimento de dúvidas e tarefas e andamento do projeto. Além de manter contato com o cliente procurando solucionar dúvidas do time em relação as funcionalidades desejadas pelo cliente. 
+- Proatividade: Pesquisa sobre tecnologias para melhor aplicação no desenvolvimento do projeto. 
+- Organização: Colaborar e documentar todos os passos que fiz em relação a cumprimento ou mudanças de tarefas das sprints e backlog. 
 
 
 
