@@ -287,8 +287,7 @@ Como Desenvolvedora Front-end trabalhei com o time desenvolvendo as telas e func
 - Comunicação: Reuniões semanais com o time para esclarecimento de dúvidas e tarefas e andamento do projeto. Além de manter contato com o cliente procurando solucionar dúvidas do time em relação as funcionalidades desejadas pelo cliente. 
 - Proatividade: Pesquisa sobre tecnologias para melhor aplicação no desenvolvimento do projeto. 
 - Organização: Colaborar e documentar todos os passos que fiz em relação a cumprimento ou mudanças de tarefas das sprints e backlog. 
-
-
+- Negociação: Ajustar as expectativas em relação às entregas, identificando e removendo funcionalidades inviáveis para desenvolvimento pela equipe por questões de tempo de desenvolvimento e a falta de recursos disponibilizados pelo cliente, propondo soluções alternativas de forma colaborativa.
 
 
 
